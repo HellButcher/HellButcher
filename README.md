@@ -103,3 +103,11 @@ Things I code with[^1]:
 
 [^1]: This is not a complete list, or has any particular order.
 
+## Get in Touch
+
+Please use GitHub's build-in features to contact me (Issues, Pull-Requests, Comments, Discussions, ...)/
+You can [open a Discussion in this Repository](https://github.com/HellButcher/HellButcher/discussions/categories/general)
+to contact me publicly (remember: everyone can read this!).
+
+To report security vaunerabilities disclosed, use [GitHub Securety Advisories](https://github.com/HellButcher/HellButcher/security/advisories).
+
